@@ -9,3 +9,8 @@ C:\Users\danil\source\repos\animationTry2\animationTry2\obj\Debug\animationTry2.
 C:\Users\danil\source\repos\animationTry2\animationTry2\obj\Debug\animationTry2.pdb
 C:\Users\danil\source\repos\animationTry2\animationTry2\obj\Debug\animationTry2.Form1.resources
 C:\Users\danil\source\repos\animationTry2\animationTry2\obj\Debug\animationTry2.Statistics.resources
+C:\Users\danil\source\repos\animationTry2\animationTry2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danil\source\repos\animationTry2\animationTry2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\danil\source\repos\animationTry2\animationTry2\obj\Debug\animationTry2.csproj.CopyComplete
+C:\Users\danil\source\repos\animationTry2\animationTry2\bin\Debug\SharpAvi.dll
+C:\Users\danil\source\repos\animationTry2\animationTry2\bin\Debug\SharpAvi.xml

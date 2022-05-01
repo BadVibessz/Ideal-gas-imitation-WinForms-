@@ -14,6 +14,7 @@ namespace animationTry2
         public bool IsAlive;
         public Rectangle ContainerRect => _containerRect;
         public Size ContainerSize => _containerSize;
+       
 
 
         private Rectangle _containerRect;
@@ -32,6 +33,8 @@ namespace animationTry2
             this.Origin = origin;
             this._containerRect = rectangle;
             this._containerSize = new Size(rectangle.Width, rectangle.Height);
+            
+            
 
             this.Color = System.Drawing.Color.FromArgb(_rand.Next(0, 255), _rand.Next(0, 255), _rand.Next(0, 255)); //todo from 0 to 255
             this.Radius = _rand.Next(5, 50);
